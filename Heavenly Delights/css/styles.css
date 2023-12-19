@@ -1,0 +1,16 @@
+body{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9keDlI0VsZoZTvi6NLKE4zaCq_8UnU5L7g&usqp=CAU');
+    background-repeat:no-repeat;
+    background-size:cover;
+    text-align:center;
+    }
+    .contain
+    {
+    margin:12px 45px 50px 89px;
+    padding:22px 56px;
+    text-align:center;
+    line-height:1.2;
+    
+    }
+  
+  
